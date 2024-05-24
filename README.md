@@ -1,5 +1,6 @@
-## Hello 🫶✨
+## hello! 🫶✨
 
+🔭 currently working on: finding a project!
 
 <!--
 **cat084/cat084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
